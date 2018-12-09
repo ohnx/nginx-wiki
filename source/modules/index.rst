@@ -110,6 +110,8 @@ https://github.com/nginxinc/nginx-wiki.
 +---------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 | :doc:`groovy_handler`     | A module for embedding Clojure, Java, and Groovy programs                | :github:`nginx-clojure/nginx-clojure`                                                          |
 +---------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
+| Guess Mime                | Guess the MIME type of files served by nginx                             | :github:`ohnx/nginx-guess-mime`                                                               |
++---------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 | Haskell                   | Binding Haskell code in configuration files for great good!              | :github:`lyokha/nginx-haskell-module`                                                          |
 +---------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 | Headers More              | Set and clear input and output headers... more than "add"!               | :github:`openresty/headers-more-nginx-module`, :support:`headers-more`                         |
